@@ -10,7 +10,6 @@ class Dancer
     FancyDance::ClassMethods 
   include 
     FancyDance::InstanceMethods
-  end
   #include Dance
  
   attr_accessor :name
